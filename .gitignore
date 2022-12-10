@@ -3,3 +3,7 @@ _site
 .jekyll-cache
 .jekyll-metadata
 vendor
+Gemfile
+Gemfile.lock
+index.sample
+jekyll-theme-hacker.gemspec
