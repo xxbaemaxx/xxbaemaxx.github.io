@@ -43,7 +43,7 @@ First thing that came up to my mind was: "what the hell is Amplify"? A quick Goo
 ```bash
 https://docs.amplify.aws/
 ```
-![Amplify Framework](/assets/images/2022-12-10-STF22-1-TopSecretAdminPanel/photo4.png)
+![Amplify Framework](/assets/images/2022-12-10-STF22-1-TopSecretAdminPanel/photo17.png)
 
 OOOOOOO~~~ So it's actually a backend framework for mobile/web applications, and it's powered by Amazon Web Services. :D
 
